@@ -1,7 +1,7 @@
 ## Hi there👋, I'm Tristan Chandra!
 ---
-Nice to meet you :D I'm currently a student in Bina Nusantara University, majoring in Game Application and Technology </br>
-Come check out and play my games!
+Nice to meet you :D I'm currently a student in Bina Nusantara University, majoring in Game Application and Technology. I am an aspiring game developer looking to make it big in the game industry, with the goal of making a fun game for everyone to play😁.</br>
+I mainly use Unity Engine as my game engine and I am currently studying 2D pixel art so that I can make my own game that I'm happy with!
 
 # Here are highlights from some of the games I made:
 <table width="100%">
