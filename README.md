@@ -44,7 +44,7 @@ Come check out and play my games!
       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).gif"  alt="Centered Image"/></td>
     </tr>
     <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
+      <td valign="text-top">A 2D Diving Sim game that features a diver as he cleans the ocean to make Earth a better place for aquatic life to live in. I was responsible for coding the movement, chest and trash interaction.</td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/seacleaner">Itch Page</td>
