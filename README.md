@@ -36,21 +36,18 @@ Come check out and play my games!
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">SeaCleaner 🤿</a></th>
+      <th width="50%"><a href="https://bgdc.itch.io/seacleaner">SeaCleaner 🤿</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif"/></td>
+      <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).gif"  alt="Centered Image"/></td>
     </tr>
     <tr>
       <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
     </tr>
     <tr>
-      <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
-    </tr>
-    <tr>
-      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
+      <td><a href="https://bgdc.itch.io/seacleaner">Itch Page</td>
     </tr>
   </tbody>
 </table>
