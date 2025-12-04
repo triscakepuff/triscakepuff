@@ -37,17 +37,21 @@ I mainly use Unity Engine as my game engine and I am currently studying 2D pixel
   <thead>
     <tr>
       <th width="50%"><a href="https://bgdc.itch.io/seacleaner">SeaCleaner 🤿</a></th>
+      <th width="50%"><a href="https://inidiki.itch.io/disembodied-mind">Disembodied Mind 😶‍🌫️</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).gif"  alt="Centered Image"/></td>
+       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/2025-12-04%2013-31-34.gif"  alt="Centered Image"/></td>
     </tr>
     <tr>
       <td valign="text-top">A 2D Diving Sim game that features a diver as he cleans the ocean to make Earth a better place for aquatic life to live in. I was responsible for coding the movement, chest and trash interaction.</td>
+      <td valign="text-top">A 2D Horror Point and Click game that tells the tale of a young paranormal investigator as he uncovers the mysteries of a village haunted by haunting presences and supernatural terror. I was the sole programmer and coded features such as inventory system, navigation, dialogue, items, and post-processing.</td>
     </tr>
     <tr>
       <td><a href="https://bgdc.itch.io/seacleaner">Itch Page</td>
+      <td><a href="https://inidiki.itch.io/disembodied-mind">Itch Page</td>
     </tr>
   </tbody>
 </table>
