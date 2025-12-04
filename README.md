@@ -43,7 +43,7 @@ I mainly use Unity Engine as my game engine and I am currently studying 2D pixel
   <tbody>
     <tr>
       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).gif"  alt="Centered Image"/></td>
-       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/2025-12-04%2013-31-34.gif"  alt="Centered Image"/></td>
+       <td><div align="center"><img src="https://github.com/triscakepuff/triscakepuff/blob/main/2025-12-04%2013-31-34.gif"/> </div></td>
     </tr>
     <tr>
       <td valign="text-top">A 2D Diving Sim game that features a diver as he cleans the ocean to make Earth a better place for aquatic life to live in. I was responsible for coding the movement, chest and trash interaction.</td>
@@ -67,8 +67,8 @@ I mainly use Unity Engine as my game engine and I am currently studying 2D pixel
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif"  alt="Centered Image"/></td>
-       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/The%20Adventures%20of%20Sir%20Bangsalot.gif"  alt="Centered Image"/></td>
+      <td><div align="center"><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif"/> </div></td>
+       <td><div align="center"><img src="https://github.com/triscakepuff/triscakepuff/blob/main/The%20Adventures%20of%20Sir%20Bangsalot.gif"/> </div></td>
     </tr>
     <tr>
       <td valign="text-top">A cozy, isometric 2D game, that tells the story of a child navigating through the loss of his mother through one final game. I was the lead Game Designer, Writer, and designed the code architecture. This game was made in 3 days for the Cozy Fall Jam 2025</td>
