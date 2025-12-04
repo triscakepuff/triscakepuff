@@ -43,7 +43,7 @@ I mainly use Unity Engine as my game engine and I am currently studying 2D pixel
   <tbody>
     <tr>
       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4).gif"  alt="Centered Image"/></td>
-       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/2025-12-04%2013-31-34.gif"  alt="Centered Image"/></td>
+       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/2025-12-04%2013-31-34.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A 2D Diving Sim game that features a diver as he cleans the ocean to make Earth a better place for aquatic life to live in. I was responsible for coding the movement, chest and trash interaction.</td>
