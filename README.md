@@ -55,3 +55,29 @@ I mainly use Unity Engine as my game engine and I am currently studying 2D pixel
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://tristan-chandra.itch.io/my-little-everything">My Little Everything 💞</a></th>
+      <th width="50%"><a href="https://mint-projects.itch.io/adventures-of-sir-bangsalot">The Adventures of Sir Bangsalot 🔫</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif"  alt="Centered Image"/></td>
+       <td><img src="https://github.com/triscakepuff/triscakepuff/blob/main/The%20Adventures%20of%20Sir%20Bangsalot.gif"  alt="Centered Image"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">A cozy, isometric 2D game, that tells the story of a child navigating through the loss of his mother through one final game. I was the lead Game Designer, Writer, and designed the code architecture. This game was made in 3 days for the Cozy Fall Jam 2025</td>
+      <td valign="text-top">A 2D Top Down Shooter game that tells the tales of a renowned prince named Sir Bangsalot and his quest to face evil. I was the lead Game Designer, and programmed features such as varying enemy AIs, enemy waves, and types of enemies, and upgrades.</td>
+    </tr>
+    <tr>
+      <td><a href="https://tristan-chandra.itch.io/my-little-everythingr">Itch Page</td>
+      <td><a href="https://mint-projects.itch.io/adventures-of-sir-bangsalot">Itch Page</td>
+    </tr>
+  </tbody>
+</table>
+
